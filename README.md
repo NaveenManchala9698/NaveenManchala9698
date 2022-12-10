@@ -1,6 +1,8 @@
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)]
+
 <h1 align="center">Hi 👋, I'm Naveen Kumar Manchala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt='coding gif' width='400' src='https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA'
+<img align='right' alt='coding gif' width='400' src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenmanchala9698&label=Profile%20views&color=0e75b6&style=flat" alt="naveenmanchala9698" /> </p>
 
