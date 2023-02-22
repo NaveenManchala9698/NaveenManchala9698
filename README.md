@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://naveen9698.netlify.app/](https://naveen9698.netlify.app/)
 
-- 💬 Ask me about **JavaScript, react, Redux**
+- 💬 Ask me about **JavaScript, react, Redux, TypeScript**
 
 - 📫 How to reach me **naveenmanchala9698@gmail.com**
 
